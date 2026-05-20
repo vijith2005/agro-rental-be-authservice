@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 05 14:10:17 IST 2026
+a728ee98a5810568b0284312afcbd086102aaff6@default-github-https\://maven.pkg.github.com/jpt20l/lms-proto/.lastUpdated=1777970417298
+https\://maven.pkg.github.com/jpt20l/lms-proto/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-bus-dependencies\:pom\:4.1.2 from/to github (https\://maven.pkg.github.com/jpt20l/lms-proto)\: status code\: 401, reason phrase\: Unauthorized (401)
+https\://repo.maven.apache.org/maven2/.lastUpdated=1777970417408
