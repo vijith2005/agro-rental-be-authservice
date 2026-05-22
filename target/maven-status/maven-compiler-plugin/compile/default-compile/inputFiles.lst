@@ -1,5 +1,9 @@
+C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\client\dto\UserManagementStatusRequest.java
+C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\client\dto\UserManagementSyncRequest.java
+C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\client\UserManagementClient.java
 C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\config\ApiError.java
 C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\config\DataSeeder.java
+C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\config\FeignClientConfig.java
 C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\config\GlobalExceptionHandler.java
 C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\config\SecurityConfig.java
 C:\Users\VIJITH S\Desktop\placement\FullStack\AgroRental\UserAuthService\src\main\java\com\agroconnect\auth\controller\AuthController.java
