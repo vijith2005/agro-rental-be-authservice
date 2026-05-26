@@ -8,7 +8,11 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
-@FeignClient(name = "UserManagementService", path = "/api/v1/user-management")
+@FeignClient(
+        name = "UserManagementService",
+        url = "${user-management.service.url:http://localhost:8082}",
+        path = "/api/v1/user-management"
+)
 public interface UserManagementClient {
 
     @PostMapping("/profiles/sync")
